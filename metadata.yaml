@@ -1,5 +1,8 @@
 _repo: The-last-vial_72589
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72589-h/images/cover.jpg
 creator:
   author:
     agent_name: McClatchie, Sam
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '31851'
     url: http://www.gutenberg.org/2009/agents/31851
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72589#The-last-vial
 gutenberg_issued: '2024-01-02'
 gutenberg_type: Text
 identifiers:
